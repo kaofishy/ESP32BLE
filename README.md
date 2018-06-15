@@ -12,3 +12,5 @@ Minimum Memory Usage: 20660 bytes (7% of a 294912 byte maximum)
 ```
 
 **VERY EARLY STAGE PROOF OF CONCEPT**
+
+Ring Buffer class Copyright (c) 2015 D. Aaron Wisner under MIT license
